@@ -1,8 +1,18 @@
 {
   "cars": [
     {
-      "id": "chv_spk",
-      "fuel_economy_mix": 15.5
+      "id": "chv_spk_rfe",
+      "manufacturer": "Chevrolet",
+      "model": "Spark 1.0 lts",
+      "fuel_economy_mix": 15.5,
+      "co2_emission": 0.153
+    },
+    {
+      "id": "chv_sl_dfg",
+      "manufacturer": "Chevrolet",
+      "model": "Sail 1.4 sedan",
+      "fuel_economy_mix": 14.6,
+      "co2_emission": 0.148
     }
   ],
   "profile": {
