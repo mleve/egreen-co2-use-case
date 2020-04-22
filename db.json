@@ -1,0 +1,11 @@
+{
+  "cars": [
+    {
+      "id": "chv_spk",
+      "fuel_economy_mix": 15.5
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
