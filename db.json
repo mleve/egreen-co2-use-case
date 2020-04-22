@@ -11,11 +11,37 @@
       "id": "chv_sl_dfg",
       "manufacturer": "Chevrolet",
       "model": "Sail 1.4 sedan",
-      "fuel_economy_mix": 14.6,
+      "fuel_economy_mix": 15.8,
       "co2_emission": 0.148
+    },
+    {
+      "id": "kia_rio_sdn",
+      "manufacturer": "Kia",
+      "model": "Rio 1.4 Sedan",
+      "fuel_economy_mix": 14.6,
+      "co2_emission": 0.13
+    },
+    {
+      "id": "szk_cel_1",
+      "manufacturer": "Suzuki",
+      "model": "celerio 1.0",
+      "fuel_economy_mix": 18.5,
+      "co2_emission": 0.129
+    },
+    {
+      "id": "kia_mrg_hb",
+      "manufacturer": "Kia",
+      "model": "Morning 1.2 hatch back",
+      "fuel_economy_mix": 20.4,
+      "co2_emission": 0.117
+    },
+    {
+      "id": "hnd_acc_sdn",
+      "manufacturer": "hyundai",
+      "model": "accent 1.4 sedan",
+      "fuel_economy_mix": 16.6,
+      "co2_emission": 0.15
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    
+  ]
 }
